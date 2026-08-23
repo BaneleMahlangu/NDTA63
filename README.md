@@ -34,6 +34,7 @@ Written in **Placeholder**
    ```sh
    git clone https://github.com/iammelvink/NDTA63.git --depth=1
    ```
+   
 
 ## Author(s)
 
@@ -41,7 +42,7 @@ Written in **Placeholder**
 
 [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
 
-GitHub: @"Group members"
+GitHub: ohnothabiso, Thabang84399, BaneleMahlangu
 
 LinkedIn: [Melvin Kisten](https://www.linkedin.com/in/iammelvink 'Melvin Kisten\'s LinkedIn page')
 
